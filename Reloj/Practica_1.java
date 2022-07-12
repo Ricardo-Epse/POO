@@ -5,7 +5,6 @@ import java.time.LocalTime;
 *   Castañeda Beltran Geovanni
 *   Colin Varela Alejandro
 *   Pérez Sereno Ricardo Erick
-*   Rosales Valdez Edna
 */
 class Practica_1 
 {
